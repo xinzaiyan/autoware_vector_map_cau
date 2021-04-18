@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+#Logs and Packages
+[Ll]ogs/
+[Pp]ackages/
+[Ll]ibrary/ 
+
 # Compiled Object files
 *.slo
 *.lo
